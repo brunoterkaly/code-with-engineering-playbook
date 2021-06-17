@@ -232,6 +232,11 @@ This will generally include identifying the goals and constraints
 for the performance characteristics of the system
 
 ### Plan and design the tests
+<<<<<<< HEAD:docs/automated-testing/performance-testing/README.md
+  
+  In general, we need to consider the following points:
+=======
+>>>>>>> 16a18d9d469eace154d91b3e3ec27100d0a02826:docs/automated-testing/performance-testing/readme.md
 
 In general we need to consider the following points:
 
@@ -257,11 +262,17 @@ In general we need to consider the following points:
 
 ### Result analysis and re-testing
 
+<<<<<<< HEAD:docs/automated-testing/performance-testing/README.md
+* The test are executed, the results are collected, and the environments are monitored
+* The results are analysed
+* Depending on the scenario, modification of application or configuration are done and testing cycle is repeated.
+=======
 - Analyze the results/performance metrics from the tests.
 
 - Identify needed changes to tweak the system (i.e., code, infrastructure) to better accommodate the test objectives.
 
 - Then test again. This cycle continues until the test objective is achieved.
+>>>>>>> 16a18d9d469eace154d91b3e3ec27100d0a02826:docs/automated-testing/performance-testing/readme.md
 
 ## Resources
 
